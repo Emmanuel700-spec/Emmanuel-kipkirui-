@@ -15,6 +15,7 @@ export const autoTypeData = [
     'Full-Stack Developer', 
     'React Enthusiast', 
     'Backend Developer', 
+    'Frontend Developer',
     'Tech Innovator'
 ];
 
