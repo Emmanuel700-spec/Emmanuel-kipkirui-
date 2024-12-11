@@ -1,12 +1,12 @@
 import classes from "./programmingSkills.module.css";
-import { JavaScript, Python, ReactJS, HTML, CSS, NodeJs, Git, MySQL } from "../asset/svg/svg";
+import { JavaScript, Python, ReactJS, HTML, CSS, Git, MySQL } from "../asset/svg/svg";
 import { useSelector } from "react-redux";
 
 // Array of skill names
-const skills = ["JavaScript", "Python", "ReactJS", "HTML", "CSS", "NodeJs", "Git", "MySQL"];
+const skills = ["JavaScript", "Python", "ReactJS", "HTML", "CSS", "Git", "MySQL"];
 
 // Array of corresponding icon components
-const skillIcons = [JavaScript, Python, ReactJS, HTML, CSS, NodeJs, Git, MySQL];
+const skillIcons = [JavaScript, Python, ReactJS, HTML, CSS, Git, MySQL];
 
 const ProgrammingSkills = (props) => {
     const uiColor = useSelector(state => state.uiColor);

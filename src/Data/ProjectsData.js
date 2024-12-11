@@ -7,13 +7,13 @@ const DUMMY_PROJECTS = [
     },
     {
         projectTitle: 'Zenmax Online Shopping Platform',
-        description: 'An e-commerce web application offering a seamless shopping experience with product search, filtering, user authentication, and CRUD operations. Developed with React, Node.js, and MongoDB, deployed on Render.',
+        description: 'An e-commerce web application offering a seamless shopping experience with product search, filtering, user authentication, and CRUD operations. Developed with React, deployed on Render.',
         sourceLink: 'https://github.com/emmanuelronoh/Zen-max_ecommerce.git',
         lastUpdated: 'Oct 15 2024'
     },
     {
         projectTitle: 'Note-Taking Web App',
-        description: 'A professional-looking note-taking application that allows users to create, edit, and manage notes efficiently. Features a clean UI with dark mode support. Built using React, Node.js, and MongoDB.',
+        description: 'A professional-looking note-taking application that allows users to create, edit, and manage notes efficiently. Features a clean UI with dark mode support. Built using React and Flask.',
         sourceLink: 'https://github.com/emmanuelronoh/notes-taking-app-full-stack.git',
         lastUpdated: 'Aug 10 2024'
     },
